@@ -33,5 +33,6 @@ if __name__ == "__main__":
 
     library.get_details()
 
-    library.search_book("Zola Thérèse")
+    library.search_book("Zola")
     library.search_book("Deshe Bideshe")
+    library.search_book("Onontokal")
